@@ -1,58 +1,92 @@
 {
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
     "user": {
         "Hardcore_Towers":{
             "type": "Toggle",
             "display_name": "Hardcore Towers",
-            "description": "Enable towers in the hardcore category"
+            "description": [
+                "Enable towers in the hardcore category"
+            ],
             "default": true,
             "group": "Towers"
         },
         "Golden_Perks":{
             "type": "Toggle",
             "display_name": "Golden Perks",
-            "description": "Enable golden perks",
+            "description": [
+                "Enable golden perks",
+            ],
             "default": true,
             "group": "Towers"
         },
         "Exclusive_Towers":{
             "type": "Toggle",
             "display_name": "Exclusive Towers",
-            "description": "Enable towers in the exclusive category",
+            "description": [
+                "Enable towers in the exclusive category"
+            ],
             "default": true,
             "group": "Towers"
         },
         "Consumables":{
             "type": "Toggle",
             "display_name": "Consumables",
-            "description": "Enable consumables",
+            "description": [
+                "Enable consumables"
+            ],
             "default": true,
             "group": "Features"
         },
         "Skill_Tree":{
             "type": "Toggle",
             "display_name": "Skill Tree",
-            "description": "Randomize skill tree",
+            "description": [
+                "Randomize skill tree"
+            ],
             "default": true,
             "group": "Features"
         },
         "Timescale_Tickets":{
             "type": "Toggle",
             "display_name": "Timescale Tickets",
-            "description": "Randomize timescale tickets",
+            "description": [
+                "Randomize timescale tickets"
+            ],
             "default": true,
             "group": "Features"
         },
         "goal":{
             "type": "Choice",
             "display_name": "Win Condition",
-            "description": "The final boss you have to kill",
+            "description": [
+                "The final boss you have to kill"
+            ],
             "values": {
-                "Patient Zero - Easy":0,
-                "Molten Warlord - Easy":1,
-                "Fallen King - Easy":2,
-                "Frost Spirit":3
+                "Patient Zero - Easy": 0,
+                "Molten Warlord - Easy": 1,
+                "Fallen King - Easy": 2,
+                "Frost Spirit": 3
              },
             "default": 3,
         }
