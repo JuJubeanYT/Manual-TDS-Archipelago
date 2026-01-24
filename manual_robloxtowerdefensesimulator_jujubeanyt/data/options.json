@@ -47,13 +47,14 @@
         "goal":{
             "type": "Choice",
             "display_name": "Win Condition",
-            "description": "The mode that the randomizer ends on",
+            "description": "The final boss you have to kill",
             "values": {
-                "Molten":0,
-                "Fallen Mode":1,
-                "Frost":2
+                "Patient Zero - Easy":0,
+                "Molten Warlord - Easy":1,
+                "Fallen King - Easy":2,
+                "Frost Spirit":3
              },
-            "default": 2,
+            "default": 3,
         }
     }
 
