@@ -388,7 +388,7 @@
     "count": 1,
     "name": "Skill Tree",
     "category": [
-      "Features"
+      "Features",
       "Skill Tree"
     ],
     "useful": true
@@ -575,10 +575,10 @@
   },
   {
     "count": 1,
-    "name": "Timescale tickets",
+    "name": "Timescale tTickets",
     "category": [
-      "Features"
-      "Timescale tickets"
+      "Features",
+      "Timescale Tickets"
     ],
     "useful": true
   },
