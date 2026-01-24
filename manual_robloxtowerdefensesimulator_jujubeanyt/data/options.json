@@ -63,9 +63,9 @@
                 "The final boss you have to kill"
             ],
             "values": {
-                "Patient Zero - Easy": 0,
-                "Molten Warlord - Easy": 1,
-                "Fallen King - Easy": 2,
+                "Patient Zero": 0,
+                "Molten Warlord": 1,
+                "Fallen King": 2,
                 "Frost Spirit": 3
              },
             "default": 3
