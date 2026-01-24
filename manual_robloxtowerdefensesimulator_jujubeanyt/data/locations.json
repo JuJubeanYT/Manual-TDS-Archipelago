@@ -269,9 +269,18 @@
     ],
     "requires": ""
   },
-  {
+    {
     "region": "Intermediate",
     "victory": true, 
+    "name": "Patient Zero",
+    "category": [
+      "Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
     "name": "Patient Zero - Easy",
     "category": [
       "Boss",
@@ -406,8 +415,17 @@
     "requires": ""
   },
   {
-    "name": "Molten Warlord - Easy",
+    "name": "Molten Warlord",
     "victory": true, 
+    "region": "Molten",
+    "category": [
+      "Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Warlord - Easy",
     "region": "Molten",
     "category": [
       "Boss",
@@ -569,8 +587,17 @@
     "requires": ""
   },
   {
-    "name": "Fallen King - Easy",
+    "name": "Fallen King",
     "victory": true, 
+    "region": "Fallen",
+    "category": [
+      "Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen King - Easy",
     "region": "Fallen",
     "category": [
       "Boss",
