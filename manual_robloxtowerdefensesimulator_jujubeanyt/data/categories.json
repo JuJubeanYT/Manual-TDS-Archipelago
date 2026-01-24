@@ -1,32 +1,32 @@
 {
     "Hardcore Towers": {
-        "yaml_option": ["Hardcore_Towers"],
+        "yaml_option": ["Hardcore_Towers"]
     },
     "Golden Perks": {
-        "yaml_option": ["Golden_Perks"],
+        "yaml_option": ["Golden_Perks"]
     },
     "Exclusive Towers": {
-        "yaml_option": ["Exclusive_Towers"],
+        "yaml_option": ["Exclusive_Towers"]
     },
     "Common Consumables": {
-        "yaml_option": ["Consumables"],
+        "yaml_option": ["Consumables"]
     },
     "Uncommon Consumables": {
-        "yaml_option": ["Consumables"],
+        "yaml_option": ["Consumables"]
     },
     "Rare Consumables": {
-        "yaml_option": ["Consumables"],
+        "yaml_option": ["Consumables"]
     },
     "Epic Consumables": {
-        "yaml_option": ["Consumables"],
+        "yaml_option": ["Consumables"]
     },
     "Legendary Consumables": {
-        "yaml_option": ["Consumables"],
+        "yaml_option": ["Consumables"]
     },
     "Skill Tree": {
-        "yaml_option": ["Skill_Tree"],
+        "yaml_option": ["Skill_Tree"]
     },
     "Timescale Tickets": {
-        "yaml_option": ["Timescale_Tickets"],
+        "yaml_option": ["Timescale_Tickets"]
     }
 }
