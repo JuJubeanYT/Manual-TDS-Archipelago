@@ -25,8 +25,10 @@
     },
     "Skill Tree": {
         "yaml_option": ["Skill_Tree"]
+        "hidden": true
     },
     "Timescale Tickets": {
         "yaml_option": ["Timescale_Tickets"]
+        "hidden": true
     }
 }
