@@ -138,7 +138,7 @@
     "name": "Brute - Easy",
     "region": "Easy",
     "category": [
-      "Final Boss",
+      "Boss",
       "Easy map"
     ],
     "requires": ""
@@ -147,7 +147,7 @@
     "name": "Brute - Normal",
     "region": "Easy",
     "category": [
-      "Final Boss",
+      "Boss",
       "Normal map"
     ],
     "requires": ""
@@ -156,7 +156,7 @@
     "name": "Brute - Hard",
     "region": "Easy",
     "category": [
-      "Final Boss",
+      "Boss",
       "Hard map"
     ],
     "requires": ""
@@ -165,7 +165,7 @@
     "region": "Casual",
     "name": "Grave Digger - Easy",
     "category": [
-      "Final Boss",
+      "Boss",
       "Easy map"
     ],
     "requires": ""
@@ -174,7 +174,7 @@
     "name": "Grave Digger - Normal",
     "region": "Casual",
     "category": [
-      "Final Boss",
+      "Boss",
       "Normal map"
     ],
     "requires": ""
@@ -183,7 +183,7 @@
     "name": "Grave Digger - Hard",
     "region": "Casual",
     "category": [
-      "Final Boss",
+      "Boss",
       "Hard map"
     ],
     "requires": ""
@@ -271,9 +271,10 @@
   },
   {
     "region": "Intermediate",
+    "victory": true, 
     "name": "Patient Zero - Easy",
     "category": [
-      "Final Boss",
+      "Boss",
       "Easy map"
     ],
     "requires": ""
@@ -282,7 +283,7 @@
     "region": "Intermediate",
     "name": "Patient Zero - Normal",
     "category": [
-      "Final Boss",
+      "Boss",
       "Normal map"
     ],
     "requires": ""
@@ -291,7 +292,7 @@
     "region": "Intermediate",
     "name": "Patient Zero - Hard",
     "category": [
-      "Final Boss",
+      "Boss",
       "Hard map"
     ],
     "requires": ""
@@ -406,9 +407,10 @@
   },
   {
     "name": "Molten Warlord - Easy",
+    "victory": true, 
     "region": "Molten",
     "category": [
-      "Final Boss",
+      "Boss",
       "Easy map"
     ],
     "requires": ""
@@ -417,7 +419,7 @@
     "name": "Molten Warlord - Normal",
     "region": "Molten",
     "category": [
-      "Final Boss",
+      "Boss",
       "Normal map"
     ],
     "requires": ""
@@ -426,7 +428,7 @@
     "name": "Molten Warlord - Hard",
     "region": "Molten",
     "category": [
-      "Final Boss",
+      "Boss",
       "Hard map"
     ],
     "requires": ""
@@ -568,9 +570,10 @@
   },
   {
     "name": "Fallen King - Easy",
+    "victory": true, 
     "region": "Fallen",
     "category": [
-      "Final Boss",
+      "Boss",
       "Easy map"
     ],
     "requires": ""
@@ -579,7 +582,7 @@
     "name": "Fallen King - Normal",
     "region": "Fallen",
     "category": [
-      "Final Boss",
+      "Boss",
       "Normal map"
     ],
     "requires": ""
@@ -588,7 +591,7 @@
     "name": "Fallen King - Hard",
     "region": "Fallen",
     "category": [
-      "Final Boss",
+      "Boss",
       "Hard map"
     ],
     "requires": ""
@@ -652,7 +655,7 @@
     "victory": true,
     "region": "Frost",
     "category": [
-      "THE Final Boss",
+      "Boss",
       "Frost mode"
     ],
     "requires": ""
