@@ -1,0 +1,660 @@
+[
+  {
+    "name": "Normal Boss - Easy",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Normal Boss - Normal",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Easy",
+    "name": "Normal Boss - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Necromancer - Easy",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Necromancer - Normal",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Necromancer - Hard",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slow Boss - Easy",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slow Boss - Normal",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slow Boss - Hard",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hidden Boss - Easy",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hidden Boss - Normal",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hidden Boss - Hard",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Speedy Boss - Easy",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Speedy Boss - Normal",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Speedy Boss - Hard",
+    "region": "Easy",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brute - Easy",
+    "region": "Easy",
+    "category": [
+      "Final Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brute - Normal",
+    "region": "Easy",
+    "category": [
+      "Final Boss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Brute - Hard",
+    "region": "Easy",
+    "category": [
+      "Final Boss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Casual",
+    "name": "Grave Digger - Easy",
+    "category": [
+      "Final Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Grave Digger - Normal",
+    "region": "Casual",
+    "category": [
+      "Final Boss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Grave Digger - Hard",
+    "region": "Casual",
+    "category": [
+      "Final Boss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ghoul - Easy",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ghoul - Normal",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ghoul - Hard",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Living Experiment - Easy",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Living Experiment - Normal",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Living Experiment - Hard",
+    "region": "Intermediate",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Failed Experiment - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Failed Experiment - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Failed Experiment - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Patient Zero - Easy",
+    "category": [
+      "Final Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Patient Zero - Normal",
+    "category": [
+      "Final Boss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Patient Zero - Hard",
+    "category": [
+      "Final Boss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Elite Abnormal - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Elite Abnormal - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Elite Abnormal - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Golem - Easy",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Golem - Normal",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Golem - Hard",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Executioner - Easy",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Executioner - Normal",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Executioner - Hard",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Molten Summoner - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Molten Summoner - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Molten",
+    "name": "Molten Summoner - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Warlord - Easy",
+    "region": "Molten",
+    "category": [
+      "Final Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Warlord - Normal",
+    "region": "Molten",
+    "category": [
+      "Final Boss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Molten Warlord - Hard",
+    "region": "Molten",
+    "category": [
+      "Final Boss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Squire - Easy",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Squire - Normal",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Squire - Hard",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Giant - Easy",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Giant - Normal",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Giant - Hard",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Shield - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Shield - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Shield - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Angel - Easy",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Angel - Normal",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen Angel - Hard",
+    "region": "Fallen",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Honor Guard - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Honor Guard - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Honor Guard - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen King - Easy",
+    "region": "Fallen",
+    "category": [
+      "Final Boss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen King - Normal",
+    "region": "Fallen",
+    "category": [
+      "Final Boss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fallen King - Hard",
+    "region": "Fallen",
+    "category": [
+      "Final Boss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Frost",
+    "name": "Snow Minion",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Hunter",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Invader",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Mage",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Ravager",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Hero",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Frost Spirit",
+    "victory": true,
+    "region": "Frost",
+    "category": [
+      "THE Final Boss",
+      "Frost mode"
+    ],
+    "requires": ""
+  }
+]

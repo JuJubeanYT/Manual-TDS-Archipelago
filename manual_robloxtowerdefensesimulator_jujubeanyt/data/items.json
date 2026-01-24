@@ -1,0 +1,639 @@
+[
+  {
+    "count": 1,
+    "name": "Casual",
+    "category": [
+      "Gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Intermediate",
+    "category": [
+      "Gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Molten",
+    "category": [
+      "Gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fallen",
+    "category": [
+      "Gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frost",
+    "category": [
+      "Gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Scout",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Soldier",
+    "category": [
+      "Tower",
+      "Starter Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Soldier",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Paintballer",
+    "category": [
+      "Tower",
+      "Starter Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Demoman",
+    "category": [
+      "Tower",
+      "Starter Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter",
+    "category": [
+      "Tower",
+      "Starter Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Militant",
+    "category": [
+      "Tower",
+      "Starter Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crook Boss",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Crook Boss",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pyromancer",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Pyromancer",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Freezer",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Assassin",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgunner",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ace Pilot",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Medic",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Farm",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Trapper",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rocketeer",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Military Base",
+    "category": [
+      "Tower",
+      "Intermediate Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cowboy",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Cowboy",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Minigunner",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Minigunner",
+    "category": [
+      "Golden perk"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mortar",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Turret",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Merc base",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Electroshocker",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Warden",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Commander",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DJ Booth",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ranger",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pursuit",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gatling Gun",
+    "category": [
+      "Tower",
+      "Advanced Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Brawler",
+    "category": [
+      "Tower",
+      "Hardcore Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Necromancer",
+    "category": [
+      "Tower",
+      "Hardcore Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Accelerator",
+    "category": [
+      "Tower",
+      "Hardcore Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Engineer",
+    "category": [
+      "Tower",
+      "Hardcore Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hacker",
+    "category": [
+      "Tower",
+      "Hardcore Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Skill Tree",
+    "category": [
+      "Features"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jester",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Harvester",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elementalist",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Biologist",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Snowballer",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Firework Tech",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gladiator",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hallow Punk",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Swarmer",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Warlock",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Toxic Gunner",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elf Camp",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sledger",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Archer",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Frost Blaster",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cryomancer",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Commando",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slasher",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Executioner",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Spotlight Tech",
+    "category": [
+      "Tower",
+      "Exclusive Tower"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Timescale tickets",
+    "category": [
+      "Features"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Common consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Uncommon consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Rare consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Epic consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Legendary consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Exclusive consumables",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Auto skip",
+    "category": [
+      "Features"
+    ],
+    "useful": true
+  }
+]

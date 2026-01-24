@@ -1,0 +1,37 @@
+{
+  "Easy": {
+    "starting": true,
+    "connects_to": [
+      "Casual"
+    ],
+    "requires": ""
+  },
+  "Casual": {
+    "connects_to": [
+      "Intermediate"
+    ],
+    "requires": "|Casual|"
+  },
+  "Intermediate": {
+    "connects_to": [
+      "Molten"
+    ],
+    "requires": "|Casual| AND |Intermediate|"
+  },
+  "Molten": {
+    "connects_to": [
+      "Fallen"
+    ],
+    "requires": "|Intermediate| AND |Molten|"
+  },
+  "Fallen": {
+    "connects_to": [
+      "Frost"
+    ],
+    "requires": "|Molten| AND |Fallen|"
+  },
+  "Frost": {
+    "connects_to": [],
+    "requires": "|Fallen| AND |Frost|"
+  }
+}
