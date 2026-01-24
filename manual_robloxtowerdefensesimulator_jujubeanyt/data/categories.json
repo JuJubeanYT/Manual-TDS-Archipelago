@@ -8,19 +8,7 @@
     "Exclusive Towers": {
         "yaml_option": ["Exclusive_Towers"]
     },
-    "Common Consumables": {
-        "yaml_option": ["Consumables"]
-    },
-    "Uncommon Consumables": {
-        "yaml_option": ["Consumables"]
-    },
-    "Rare Consumables": {
-        "yaml_option": ["Consumables"]
-    },
-    "Epic Consumables": {
-        "yaml_option": ["Consumables"]
-    },
-    "Legendary Consumables": {
+    "Consumables": {
         "yaml_option": ["Consumables"]
     },
     "Skill Tree": {
