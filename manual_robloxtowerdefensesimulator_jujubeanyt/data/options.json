@@ -3,13 +3,18 @@
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
         "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            "type": "Choice",
+            "display_name": "Win Condition",
+            "description": [
+                "The final boss you have to kill"
             ],
-            "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
-            "hidden": false
+            "values": {
+                "Patient Zero": 0,
+                "Molten Warlord": 1,
+                "Fallen King": 2,
+                "Frost Spirit": 3
+             },
+            "default": 3
         },
         "death_link": {
             "default": false
@@ -22,60 +27,59 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "Hardcore_Towers":{
             "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
+            "display_name": "Hardcore Towers",
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Enable towers in the hardcore category"
             ],
+            "default": true,
+            "group": "Towers"
+        },
+        "Golden_Perks":{
             "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
-        },
-        "Example_Choice":{
-            "type": "Choice",
+            "display_name": "Golden Perks",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Enable golden perks"
             ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
+            "default": true,
+            "group": "Towers"
         },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
+        "Exclusive_Towers":{
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
+            "display_name": "Exclusive Towers",
+            "description": [
+                "Enable towers in the exclusive category"
             ],
-            "default": true
+            "default": true,
+            "group": "Towers"
+        },
+        "Consumables":{
+            "type": "Toggle",
+            "display_name": "Consumables",
+            "description": [
+                "Enable consumables"
+            ],
+            "default": true,
+            "group": "Features"
+        },
+        "Skill_Tree":{
+            "type": "Toggle",
+            "display_name": "Skill Tree",
+            "description": [
+                "Randomize skill tree"
+            ],
+            "default": true,
+            "group": "Features"
+        },
+        "Timescale_Tickets":{
+            "type": "Toggle",
+            "display_name": "Timescale Tickets",
+            "description": [
+                "Randomize timescale tickets"
+            ],
+            "default": true,
+            "group": "Features"
         }
     }
 
