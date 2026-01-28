@@ -82,7 +82,7 @@
   },
   {
     "name": "Hidden Boss - Easy",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Easy map"
@@ -91,7 +91,7 @@
   },
   {
     "name": "Hidden Boss - Normal",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Normal map"
@@ -100,7 +100,7 @@
   },
   {
     "name": "Hidden Boss - Hard",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Hard map"
@@ -109,7 +109,7 @@
   },
   {
     "name": "Speedy Boss - Easy",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Easy map"
@@ -118,7 +118,7 @@
   },
   {
     "name": "Speedy Boss - Normal",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Normal map"
@@ -127,7 +127,7 @@
   },
   {
     "name": "Speedy Boss - Hard",
-    "region": "Easy",
+    "region": "Casual",
     "category": [
       "Miniboss",
       "Hard map"
