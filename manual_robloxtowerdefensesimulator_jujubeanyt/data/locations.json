@@ -189,7 +189,7 @@
     "requires": ""
   },
   {
-    "name": "Ghoul - Easy",
+    "name": "Elite Abnormal - Easy",
     "region": "Intermediate",
     "category": [
       "Miniboss",
@@ -198,7 +198,7 @@
     "requires": ""
   },
   {
-    "name": "Ghoul - Normal",
+    "name": "Elite Abnormal - Normal",
     "region": "Intermediate",
     "category": [
       "Miniboss",
@@ -207,7 +207,7 @@
     "requires": ""
   },
   {
-    "name": "Ghoul - Hard",
+    "name": "Elite Abnormal - Hard",
     "region": "Intermediate",
     "category": [
       "Miniboss",
@@ -262,7 +262,34 @@
   },
   {
     "region": "Intermediate",
-    "name": "Failed Experiment - Hard",
+    "name": "Giant Boss - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+    {
+    "region": "Intermediate",
+    "name": "Giant Boss - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Giant Boss - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Intermediate",
+    "name": "Giant Boss - Hard",
     "category": [
       "Miniboss",
       "Hard map"
@@ -307,33 +334,6 @@
     "requires": ""
   },
   {
-    "region": "Molten",
-    "name": "Elite Abnormal - Easy",
-    "category": [
-      "Miniboss",
-      "Easy map"
-    ],
-    "requires": ""
-  },
-  {
-    "region": "Molten",
-    "name": "Elite Abnormal - Normal",
-    "category": [
-      "Miniboss",
-      "Normal map"
-    ],
-    "requires": ""
-  },
-  {
-    "region": "Molten",
-    "name": "Elite Abnormal - Hard",
-    "category": [
-      "Miniboss",
-      "Hard map"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Molten Golem - Easy",
     "region": "Molten",
     "category": [
@@ -351,8 +351,35 @@
     ],
     "requires": ""
   },
-  {
+    {
+    "region": "Molten",
     "name": "Molten Golem - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bulwark - Easy",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bulwark - Normal",
+    "region": "Molten",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bulwark - Hard",
     "region": "Molten",
     "category": [
       "Miniboss",
@@ -505,6 +532,33 @@
     ],
     "requires": ""
   },
+    {
+    "region": "Fallen",
+    "name": "Fallen Jester - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Jester - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Jester - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
   {
     "region": "Fallen",
     "name": "Fallen Shield - Easy",
@@ -526,6 +580,33 @@
   {
     "region": "Fallen",
     "name": "Fallen Shield - Hard",
+    "category": [
+      "Miniboss",
+      "Hard map"
+    ],
+    "requires": ""
+  },
+    {
+    "region": "Fallen",
+    "name": "Fallen Angel - Easy",
+    "category": [
+      "Miniboss",
+      "Easy map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Angel - Normal",
+    "category": [
+      "Miniboss",
+      "Normal map"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Fallen",
+    "name": "Fallen Angel - Hard",
     "category": [
       "Miniboss",
       "Hard map"
@@ -634,6 +715,15 @@
   },
   {
     "name": "Frost Hunter",
+    "region": "Frost",
+    "category": [
+      "Miniboss",
+      "Frost mode"
+    ],
+    "requires": ""
+  },
+   {
+    "name": "Frost Acolyte",
     "region": "Frost",
     "category": [
       "Miniboss",
