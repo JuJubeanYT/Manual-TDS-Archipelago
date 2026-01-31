@@ -7,5 +7,3 @@ Should be mostly self explanatory but just in case I will clarify things
 - Play solo
 - Be prepared to use 90% of your brain power.
 - Have fun.
-
-YAML settings will added with tesla tower on 1/28
