@@ -575,7 +575,7 @@
   },
   {
     "count": 1,
-    "name": "Timescale tTickets",
+    "name": "Timescale Tickets",
     "category": [
       "Features",
       "Timescale Tickets"
@@ -616,7 +616,15 @@
   },
   {
     "count": 1,
-    "name": "Legendary Consumables",
+    "name": "Nuke",
+    "category": [
+      "Consumables"
+    ],
+    "trap": true
+  },
+    {
+    "count": 1,
+    "name": "Molten Monster",
     "category": [
       "Consumables"
     ],
@@ -629,13 +637,5 @@
       "Consumables"
     ],
     "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Auto Skip",
-    "category": [
-      "Features"
-    ],
-    "useful": true
   }
 ]
