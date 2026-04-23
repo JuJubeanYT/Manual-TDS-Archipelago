@@ -587,33 +587,6 @@
     "requires": ""
   },
   {
-    "name": "Fallen Angel - Easy",
-    "region": "Fallen",
-    "category": [
-      "Miniboss",
-      "Easy map"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Fallen Angel - Normal",
-    "region": "Fallen",
-    "category": [
-      "Miniboss",
-      "Normal map"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Fallen Angel - Hard",
-    "region": "Fallen",
-    "category": [
-      "Miniboss",
-      "Hard map"
-    ],
-    "requires": ""
-  },
-  {
     "region": "Fallen",
     "name": "Fallen Honor Guard - Easy",
     "category": [
