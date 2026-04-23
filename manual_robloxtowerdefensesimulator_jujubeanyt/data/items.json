@@ -52,7 +52,8 @@
     "name": "Soldier",
     "category": [
       "Towers",
-      "Starter Towers"
+      "Starter Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -69,7 +70,8 @@
     "name": "Paintballer",
     "category": [
       "Towers",
-      "Starter Towers"
+      "Starter Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -78,7 +80,8 @@
     "name": "Demoman",
     "category": [
       "Towers",
-      "Starter Towers"
+      "Starter Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -87,7 +90,8 @@
     "name": "Hunter",
     "category": [
       "Towers",
-      "Starter Towers"
+      "Intermediate Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -96,7 +100,8 @@
     "name": "Militant",
     "category": [
       "Towers",
-      "Starter Towers"
+      "Intermediate Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -105,7 +110,8 @@
     "name": "Crook Boss",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -122,7 +128,8 @@
     "name": "Pyromancer",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -139,7 +146,8 @@
     "name": "Freezer",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -148,7 +156,8 @@
     "name": "Assassin",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -157,7 +166,8 @@
     "name": "Shotgunner",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Starter Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -166,7 +176,8 @@
     "name": "Ace Pilot",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -175,7 +186,8 @@
     "name": "Medic",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -184,7 +196,8 @@
     "name": "Farm",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -193,7 +206,8 @@
     "name": "Trapper",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -202,7 +216,8 @@
     "name": "Rocketeer",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -211,7 +226,8 @@
     "name": "Military Base",
     "category": [
       "Towers",
-      "Intermediate Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -220,7 +236,8 @@
     "name": "Cowboy",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -237,7 +254,8 @@
     "name": "Minigunner",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -249,12 +267,33 @@
     ],
     "useful": true
   },
+    {
+    "count": 1,
+    "name": "Tesla",
+    "category": [
+      "Towers",
+      "Advanced Towers",
+      "Defense"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Saboteur",
+    "category": [
+      "Towers",
+      "Advanced Towers",
+      "Offense"
+    ],
+    "useful": true
+  },
   {
     "count": 1,
     "name": "Mortar",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -263,16 +302,18 @@
     "name": "Turret",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
   {
     "count": 1,
-    "name": "Merc base",
+    "name": "Mercenary Base",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -281,7 +322,8 @@
     "name": "Electroshocker",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Intermediate Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -290,7 +332,8 @@
     "name": "Warden",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -299,7 +342,8 @@
     "name": "Commander",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -308,7 +352,8 @@
     "name": "DJ Booth",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -317,7 +362,8 @@
     "name": "Ranger",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -326,7 +372,8 @@
     "name": "Pursuit",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -335,7 +382,8 @@
     "name": "Gatling Gun",
     "category": [
       "Towers",
-      "Advanced Towers"
+      "Advanced Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -344,7 +392,8 @@
     "name": "Brawler",
     "category": [
       "Towers",
-      "Hardcore Towers"
+      "Hardcore Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -353,7 +402,8 @@
     "name": "Necromancer",
     "category": [
       "Towers",
-      "Hardcore Towers"
+      "Hardcore Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -362,7 +412,8 @@
     "name": "Accelerator",
     "category": [
       "Towers",
-      "Hardcore Towers"
+      "Hardcore Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -371,7 +422,8 @@
     "name": "Engineer",
     "category": [
       "Towers",
-      "Hardcore Towers"
+      "Hardcore Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -380,7 +432,8 @@
     "name": "Hacker",
     "category": [
       "Towers",
-      "Hardcore Towers"
+      "Hardcore Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -398,7 +451,8 @@
     "name": "Jester",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -407,7 +461,8 @@
     "name": "Harvester",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -425,7 +480,8 @@
     "name": "Biologist",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -434,7 +490,8 @@
     "name": "Snowballer",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -443,7 +500,8 @@
     "name": "Firework Tech",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Support"
     ],
     "useful": true
   },
@@ -452,7 +510,8 @@
     "name": "Gladiator",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -461,7 +520,8 @@
     "name": "Hallow Punk",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -470,7 +530,8 @@
     "name": "Swarmer",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -479,7 +540,8 @@
     "name": "Warlock",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -488,7 +550,8 @@
     "name": "Toxic Gunner",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -497,7 +560,8 @@
     "name": "Elf Camp",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -506,7 +570,8 @@
     "name": "Sledger",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -515,7 +580,8 @@
     "name": "Archer",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -524,7 +590,8 @@
     "name": "Frost Blaster",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -533,7 +600,8 @@
     "name": "Cryomancer",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Defense"
     ],
     "useful": true
   },
@@ -542,7 +610,8 @@
     "name": "Commando",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -551,7 +620,8 @@
     "name": "Slasher",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -560,7 +630,8 @@
     "name": "Executioner",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Offense"
     ],
     "useful": true
   },
@@ -569,7 +640,8 @@
     "name": "Spotlight Tech",
     "category": [
       "Towers",
-      "Exclusive Towers"
+      "Exclusive Towers",
+      "Support"
     ],
     "useful": true
   },
