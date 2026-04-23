@@ -81,33 +81,6 @@
     "requires": ""
   },
   {
-    "name": "Hidden Boss - Easy",
-    "region": "Casual",
-    "category": [
-      "Miniboss",
-      "Easy map"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Hidden Boss - Normal",
-    "region": "Casual",
-    "category": [
-      "Miniboss",
-      "Normal map"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Hidden Boss - Hard",
-    "region": "Casual",
-    "category": [
-      "Miniboss",
-      "Hard map"
-    ],
-    "requires": ""
-  },
-  {
     "name": "Speedy Boss - Easy",
     "region": "Casual",
     "category": [
