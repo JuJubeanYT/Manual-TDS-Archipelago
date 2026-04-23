@@ -3,5 +3,9 @@
   "game": "RobloxTowerDefenseSimulator",
   "creator": "JuJubeanYT",
   "filler_item_name": "Filler",
-  "starting_items": ["Scout","Sniper","Easy"]
+  "starting_items": [
+    {
+      "items": ["Scout", "Sniper", "Easy"]
+    }
+  ]
 }
