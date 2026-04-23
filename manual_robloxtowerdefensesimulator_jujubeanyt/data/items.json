@@ -1,6 +1,14 @@
 [
   {
     "count": 1,
+    "name": "Easy",
+    "category": [
+      "Gamemodes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Casual",
     "category": [
       "Gamemodes"
@@ -41,9 +49,29 @@
   },
   {
     "count": 1,
+    "name": "Scout",
+    "category": [
+      "Towers",
+      "Starter Towers",
+      "Offense"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Golden Scout",
     "category": [
       "Golden Perks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sniper",
+    "category": [
+      "Towers",
+      "Starter Towers",
+      "Defense"
     ],
     "useful": true
   },
