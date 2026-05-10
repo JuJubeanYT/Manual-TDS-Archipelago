@@ -77,6 +77,16 @@
   },
   {
     "count": 1,
+    "name": "Slime Trooper",
+    "category": [
+      "Towers",
+      "Starter Towers",
+      "Support"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Soldier",
     "category": [
       "Towers",
