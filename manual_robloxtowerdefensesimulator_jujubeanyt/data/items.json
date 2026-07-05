@@ -477,6 +477,52 @@
   },
   {
     "count": 1,
+    "name": "Operator (0-4)",
+    "category": [
+      "Towers",
+      "Evolved Towers",
+      "Offense"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Operator (5-6)",
+    "category": [
+      "Towers",
+      "Evolved Towers",
+      "Offense"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Juggernaut (0-3)",
+    "category": [
+      "Towers",
+      "Evolved Towers",
+      "Offense"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Juggernaut (4A-7A)",
+    "category": [
+      "Evolved Towers",
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Juggernaut (4B-7B)",
+    "category": [
+      "Evolved Towers",
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Skill Tree",
     "category": [
       "Features",
