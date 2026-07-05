@@ -11,6 +11,15 @@
             "default": true,
             "group": "Towers"
         },
+        "Evolved_Towers":{
+            "type": "Toggle",
+            "display_name": "Evolved Towers",
+            "description": [
+                "Enable towers in the evolved category"
+            ],
+            "default": true,
+            "group": "Towers"
+        },
         "Golden_Perks":{
             "type": "Toggle",
             "display_name": "Golden Perks",
