@@ -2,6 +2,9 @@
     "Hardcore Towers": {
         "yaml_option": ["Hardcore_Towers"]
     },
+    "Evolved Towers": {
+        "yaml_option": ["Evolved_Towers"]
+    },
     "Golden Perks": {
         "yaml_option": ["Golden_Perks"]
     },
